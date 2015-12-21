@@ -16,11 +16,11 @@ html, body {
     
     /* Play with these numbers to see what it does */
     height: 210px;
-    width: 195px;
+    width: 210px;
     margin-top: -85px; 
     margin-left: -100px;
     
-    border-color: #ff7b00;
+    border-color: red;
     border-width: 2px;
     border-style: solid;
     border-radius: 50%;
